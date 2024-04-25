@@ -1,6 +1,6 @@
 # Base de Datos de Fútbol
 
-Este repositorio contiene tres bases de datos, cada una enfocada en un ámbito diferente: ligas de fútbol, obras cinematográficas y aviones. Cada base de datos incluye modelos de entidades, relaciones, y restricciones, así como consultas SQL y triggers para mantener la integridad de los datos y facilitar la gestión de información específica para cada área.
+Este repositorio contiene tres bases de datos, cada una enfocada en un ámbito diferente: ligas de fútbol, obras cinematográficas y aviación. Cada base de datos incluye modelos de entidades, relaciones, y restricciones, así como consultas SQL y triggers para mantener la integridad de los datos y facilitar la gestión de información específica para cada área.
 
 ## Bases diseñadas
 
