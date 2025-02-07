@@ -1,32 +1,32 @@
-# Bases de Datos
+# Databases
 
-Este repositorio contiene tres bases de datos, cada una enfocada en un ámbito diferente: ligas de fútbol, obras cinematográficas y aviación. Cada base de datos incluye modelos de entidades, relaciones, y restricciones, así como consultas SQL y triggers para mantener la integridad de los datos y facilitar la gestión de información específica para cada área.
+This repository contains three databases, each focused on a different domain: football leagues, cinematography, and aviation. Each database includes entity models, relationships, and constraints, as well as SQL queries and triggers to maintain data integrity and facilitate the management of information specific to each area.
 
-## Bases diseñadas
+## Designed Databases
 
-- **Liga de fútbol**: Una base de datos para organizar información sobre ligas de fútbol, incluyendo entidades como divisiones, temporadas, jornadas, partidos, equipos y estadios.
-- **Cinematografía**: Una base de datos que registra información sobre personas, contenido (películas y series), y capítulos, incluyendo sus relaciones y características para gestionar la participación de personas en el contenido y los atributos de cada tipo de obra.
-- **Aviación**: Una base de datos diseñada para gestionar información sobre compañías aéreas, aviones, modelos, vuelos, aeropuertos e incidencias, incluyendo retrasos, desvíos y cancelaciones, y sus respectivas relaciones.
+- **Football League**: A database to organize information about football leagues, including entities such as divisions, seasons, matchdays, matches, teams, and stadiums.
+- **Cinematography**: A database that records information about individuals, content (movies and series), and episodes, including their relationships and characteristics to manage people's involvement in content and the attributes of each type of work.
+- **Aviation**: A database designed to manage information about airlines, airplanes, models, flights, airports, and incidents, including delays, diversions, and cancellations, along with their respective relationships.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **SQL**: Para la creación de tablas, consultas y manipulación de datos.
-- **Modelos E/R**: Para diseñar la estructura conceptual de la base de datos.
-- **Normalización**: Para asegurar la integridad y eficiencia de los datos.
-- **Vistas y triggers**: Para optimizar consultas y mantener la integridad de los datos.
-- **Población de la base**: Utilizando archivos `.csv` y scripts de población.
+- **SQL**: For table creation, queries, and data manipulation.
+- **E/R Models**: To design the conceptual structure of the database.
+- **Normalization**: To ensure data integrity and efficiency.
+- **Views and Triggers**: To optimize queries and maintain data integrity.
+- **Database Population**: Using `.csv` files and population scripts.
 
-## Funcionalidades Clave
+## Key Features
 
-- **Organización de datos**: En entidades como divisiones, temporadas, partidos, equipos, y estadios.
-- **Definición de relaciones**: Entre entidades para mantener la consistencia de los datos.
-- **Restricciones**: Como claves primarias y claves ajenas para mantener la integridad referencial.
-- **Consultas complejas**: Para obtener información detallada sobre ligas, equipos, y partidos.
+- **Data Organization**: Into entities such as divisions, seasons, matches, teams, and stadiums.
+- **Relationship Definition**: Between entities to maintain data consistency.
+- **Constraints**: Such as primary and foreign keys to ensure referential integrity.
+- **Complex Queries**: To extract detailed information about leagues, teams, and matches.
 
-## Diseño del Sistema
+## System Design
 
-- **Diseño E/R**: Define las entidades y sus relaciones en la base de datos.
-- **Normalización**: Asegura la consistencia y eficiencia en la estructura de los datos.
-- **Creación de tablas y consultas**: Para implementar la base de datos y sus operaciones.
-- **Implementación de restricciones**: Para asegurar la validez de los datos y su integridad.
-- **Manejo de datos**: Con procedimientos de población y manipulación de la base de datos.
+- **E/R Design**: Defines the entities and their relationships in the database.
+- **Normalization**: Ensures consistency and efficiency in the data structure.
+- **Table Creation and Queries**: To implement the database and its operations.
+- **Constraint Implementation**: To ensure data validity and integrity.
+- **Data Management**: Through procedures for populating and manipulating the database.
