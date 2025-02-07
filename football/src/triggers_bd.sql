@@ -1,6 +1,3 @@
-/* Autores:	Lizer Bernad		779035 */
-/*			Guillermo Bajo		842748 */
-/*			Axel Isaac Pazmiño	817627 */
 /* Triggers:	   */
 
 -- Verifica que el equipo local no sea el mismo que el visitante
